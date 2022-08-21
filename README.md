@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=julia,py,r" />
+    <img src="https://skillicons.dev/icons?i=julia,py,r,cpp" />
   </a>
 </p>
 
