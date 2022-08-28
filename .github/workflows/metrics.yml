@@ -33,8 +33,8 @@ jobs:
           plugin_licenses: yes
           plugin_lines:  yes
           #plugin_notable: yes
-          plugin_people: yes
-          plugin_people_types: contributors, sponsoring
+          #plugin_people: yes
+          #plugin_people_types: contributors, sponsoring
           plugin_repositories: yes
           plugin_repositories_featured: JuliaGraphs/MultilayerGraphs.jl, InPhyT/COVID19-Italy-Integrated-Surveillance-Data, JuliaHealth/ICD_GEMs.jl, pitmonticone/EnergySystemModelling, InPhyT/UnrollingAverages.jl
           plugin_topics: yes
