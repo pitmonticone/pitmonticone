@@ -30,7 +30,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, JavaScript, SCSS, Ruby, Jupyter Notebook
           plugin_licenses: yes
-          plugin_notable: yes
+          #plugin_notable: yes
           plugin_people: yes
           plugin_people_types: contributors, sponsoring
           plugin_repositories: yes
