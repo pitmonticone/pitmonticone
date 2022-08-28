@@ -19,10 +19,8 @@ jobs:
           config_timezone: Europe/Rome
           commits_authoring: 38562595+pitmonticone@users.noreply.github.com, pit.monticone@gmail.com, pietro.monticone@edu.unito.it, pietromonticone.cs@gmail.com
           plugin_achievements: yes
-          plugin_activity: yes
-          plugin_activity_filter: issue, push, pr, fork, star
           plugin_calendar: yes
-          plugin_calendar_limit: 2
+          plugin_calendar_limit: 3
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
@@ -30,13 +28,12 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, JavaScript, SCSS, Ruby, Jupyter Notebook
           plugin_licenses: yes
           plugin_notable: yes
           plugin_people: yes
           plugin_people_types: contributors, sponsoring
           plugin_repositories: yes
           plugin_repositories_featured: JuliaGraphs/MultilayerGraphs.jl, InPhyT/COVID19-Italy-Integrated-Surveillance-Data, JuliaHealth/ICD_GEMs.jl, pitmonticone/EnergySystemModelling, InPhyT/UnrollingAverages.jl
-          plugin_stargazers: yes
           plugin_topics: yes
           plugin_topics_mode: icons
