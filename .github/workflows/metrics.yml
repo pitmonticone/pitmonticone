@@ -1,0 +1,42 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 5 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: pitmonticone
+          config_timezone: Europe/Rome
+          commits_authoring: 38562595+pitmonticone@users.noreply.github.com, pit.monticone@gmail.com, pietro.monticone@edu.unito.it, pietromonticone.cs@gmail.com
+          plugin_achievements: yes
+          plugin_activity: yes
+          plugin_activity_filter: issue, push, pr, fork, star
+          plugin_calendar: yes
+          plugin_calendar_limit: 2
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_introduction: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
+          plugin_licenses: yes
+          plugin_notable: yes
+          plugin_people: yes
+          plugin_people_types: contributors, sponsoring
+          plugin_repositories: yes
+          plugin_repositories_featured: JuliaGraphs/MultilayerGraphs.jl, InPhyT/COVID19-Italy-Integrated-Surveillance-Data, JuliaHealth/ICD_GEMs.jl, pitmonticone/EnergySystemModelling, InPhyT/UnrollingAverages.jl
+          plugin_stargazers: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
