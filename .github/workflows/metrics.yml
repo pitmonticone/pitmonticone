@@ -9,8 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    #permissions:
+    #  contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
