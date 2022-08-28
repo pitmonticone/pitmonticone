@@ -21,7 +21,7 @@ jobs:
           plugin_achievements: yes
           plugin_calendar: yes
           plugin_calendar_limit: 3
-          plugin_followup: yes
+          #plugin_followup: yes
           #plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
