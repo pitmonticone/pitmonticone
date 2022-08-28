@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: pitmonticone
           config_timezone: Europe/Rome
+          config_display: large
           commits_authoring: 38562595+pitmonticone@users.noreply.github.com, pit.monticone@gmail.com, pietro.monticone@edu.unito.it, pietromonticone.cs@gmail.com
           plugin_achievements: yes
           plugin_calendar: yes
