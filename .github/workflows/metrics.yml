@@ -33,7 +33,7 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, JavaScript, SCSS, Ruby, Jupyter Notebook, Shell, Tcl
           plugin_licenses: yes
           plugin_lines:  yes
-          #plugin_notable: yes
+          plugin_notable: yes
           #plugin_people: yes
           #plugin_people_types: contributors, sponsoring
           plugin_repositories: yes
