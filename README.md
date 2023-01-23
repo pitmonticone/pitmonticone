@@ -7,3 +7,36 @@
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://julialang.social/@PietroMonticone)
 
 ![GitHub Metrics](github-metrics.svg)
+
+
+## Past Projects
+
+### Computational Social Science 
+- [Ego Graph Analysis on Facebook and Twitter](https://github.com/pitmonticone/SocialMediaEgoGraphAnalysis).
+
+### Computational Epidemiology & Public Health 
+- [ICD_GEMs.jl: A Julia Package to Translate Between ICD-9 and ICD-10 Codes](https://github.com/JuliaHealth/ICD_GEMs.jl); 
+- [Italian COVID-19 integrated surveillance dataset disaggregated by region, age and sex](https://github.com/InPhyT/COVID19-Italy-Integrated-Surveillance-Data); 
+- [Piedmont COVID-19 Data Modelling & Management](https://github.com/UniTo-SEPI/COVID-19_Piedmont).
+
+### Data Mining & Machine Learning 
+- [User Gender Classification on Reddit applying NLP](https://github.com/pitmonticone/RedditTextClassification);
+- [BERT Sentiment Classification on the IMDb Large Movie Review Dataset](https://github.com/pitmonticone/BertSentimentClassification);
+- [Dataset Analysis and CNN Models Optimization for Plant Disease Classification](https://github.com/pitmonticone/PlantDiseaseClassification).
+
+### Time Series Analysis 
+- [UnrollingAverages.jl: A Julia Package to Deconvolve Time Series Data](https://github.com/InPhyT/UnrollingAverages.jl).
+
+## Current Projects  
+
+### Applied Graph Theory / Network Science 
+- [MultilayerGraphs.jl: A Julia Package to Construct, Handle and Analyse Multilayer Graphs](https://github.com/JuliaGraphs/MultilayerGraphs.jl).
+
+### Computational Epidemiology & Public Health 
+- [ComputationalEpidemiology.jl: A Julia Package for Computational Epidemiology]().
+
+### Computational Neuroscience 
+- [NeuronalModeling.jl: A Julia Package for Single-Neuron Modelling]().
+
+### Computational Simulation and Optimisation 
+- [ModellingFramework.jl: A Julia Package for Domain-Specific Modelling and Optimisation]().
