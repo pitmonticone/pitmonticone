@@ -32,14 +32,8 @@
 ### Applied Graph Theory / Network Science 
 - [MultilayerGraphs.jl: A Julia Package to Construct, Handle and Analyse Multilayer Graphs](https://github.com/JuliaGraphs/MultilayerGraphs.jl).
 
-### Computational Epidemiology & Public Health 
-- [ComputationalEpidemiology.jl: A Julia Package for Computational Epidemiology]().
-
-### Computational Neuroscience 
-- [NeuronalModeling.jl: A Julia Package for Single-Neuron Modelling]().
-
-### Computational Simulation and Optimisation 
-- [ModellingFramework.jl: A Julia Package for Domain-Specific Modelling and Optimisation]().
+### Number Theory 
+- [FLT3: Formalising Fermat's Last Theorem for Exponent 3 in Lean](https://pitmonticone.github.io/FLT3/)
 
 ## Talks 
 
