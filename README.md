@@ -17,15 +17,15 @@
 - [Dataset Analysis and CNN Models Optimization for Plant Disease Classification](https://github.com/pitmonticone/PlantDiseaseClassification).
 
 ### Time Series Analysis 
-- [UnrollingAverages.jl: A Julia Package to Deconvolve Time Series Data](https://github.com/InPhyT/UnrollingAverages.jl).
+- [UnrollingAverages.jl](https://github.com/InPhyT/UnrollingAverages.jl): A Julia Package to Deconvolve Time Series Data.
 
 ## Current Selected Projects  
 
 ### Applied Graph Theory / Network Science 
-- [MultilayerGraphs.jl: A Julia Package to Construct, Handle and Analyse Multilayer Graphs](https://github.com/JuliaGraphs/MultilayerGraphs.jl).
+- [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl): A Julia Package to Construct, Handle and Analyse Multilayer Graphs.
 
 ### Number Theory 
-- [FLT3: Formalising Fermat's Last Theorem for Exponent 3 in Lean](https://pitmonticone.github.io/FLT3/)
+- [FLT3](https://pitmonticone.github.io/FLT3/): Formalising Fermat's Last Theorem for Exponent 3 in Lean.
 
 ## Talks 
 
