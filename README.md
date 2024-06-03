@@ -26,6 +26,7 @@
 
 ### Number Theory 
 - [FLT3](https://pitmonticone.github.io/FLT3/): Formalising Fermat's Last Theorem for Exponent 3 in Lean.
+- [PFR](https://github.com/teorth/pfr): Formalising the Polynomial Freiman Ruzsa conjecture and related results in Lean.
 
 ## Talks 
 
