@@ -25,8 +25,11 @@
 - [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl): A Julia Package to Construct, Handle and Analyse Multilayer Graphs.
 
 ### Number Theory 
-- [FLT3](https://pitmonticone.github.io/FLT3/): Formalising Fermat's Last Theorem for Exponent 3 in Lean.
-- [PFR](https://github.com/teorth/pfr): Formalising the Polynomial Freiman Ruzsa conjecture and related results in Lean.
+- [FLT3](https://pitmonticone.github.io/FLT3/): Formalising Fermat's Last Theorem for Exponent 3 in the Lean proof assistant.
+- [PFR](https://github.com/teorth/pfr): Formalising the Polynomial Freiman Ruzsa conjecture and related results in the Lean proof assistant.
+
+### Harmonic Analysis
+- [Carleson](http://florisvandoorn.com/carleson/): Formalising a generalised Carleson's Theorem in the Lean proof assistant.
 
 ## Talks 
 
