@@ -19,10 +19,10 @@
 ### Time Series Analysis 
 - [UnrollingAverages.jl](https://github.com/InPhyT/UnrollingAverages.jl): A Julia Package to Deconvolve Time Series Data.
 
-## Current Selected Projects  
-
 ### Applied Graph Theory / Network Science 
 - [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl): A Julia Package to Construct, Handle and Analyse Multilayer Graphs.
+
+## Current Selected Projects  
 
 ### Number Theory 
 - [FLT3](https://pitmonticone.github.io/FLT3/): Formalising Fermat's Last Theorem for Exponent 3 in the Lean proof assistant.
