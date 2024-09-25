@@ -24,12 +24,26 @@
 
 ## Current Selected Projects  
 
-### Number Theory 
-- [FLT3](https://pitmonticone.github.io/FLT3/): Formalising Fermat's Last Theorem for Exponent 3 in the Lean proof assistant.
-- [PFR](https://github.com/teorth/pfr): Formalising the Polynomial Freiman Ruzsa conjecture and related results in the Lean proof assistant.
+### Libraries 
+- [LeanBlueprint](https://github.com/PatrickMassot/leanblueprint): Python library to write blueprints for formalisation projects in the Lean proof assistant.
+- [Mathlib](https://github.com/leanprover-community/mathlib4): Lean library of formalised mathematics.
 
 ### Harmonic Analysis
-- [Carleson](http://florisvandoorn.com/carleson/): Formalising a generalised Carleson's Theorem in the Lean proof assistant.
+- [BonnAnalysis](https://github.com/fpvandoorn/BonnAnalysis): Collaborative formalisation seminars in Analysis at the University of Bonn. 
+- [Carleson](http://florisvandoorn.com/carleson): Formalising a generalised Carleson's Theorem in the Lean proof assistant.
+
+### Number Theory
+- [FLT3](https://pitmonticone.github.io/FLT3): Formalising Fermat's Last Theorem for Exponent 3 in the Lean proof assistant.
+- [FLT](https://github.com/ImperialCollegeLondon/FLT): Formalising Fermat's Last Theorem in the Lean proof assistant.
+- [PFR](https://github.com/teorth/pfr): Formalising the Polynomial Freiman Ruzsa conjecture and related results in the Lean proof assistant.
+- [PNT+](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd): Formalising the Prime Number Theorem and more in the Lean proof assistant.
+
+### Dynamical Systems Theory
+- [BET](https://github.com/mseri/BET): Formalising Birkhoff's Ergodic Theorem in the Lean proof assistant.
+- [TopologicalEntropy](https://github.com/mseri/BET/tree/main/BET/TopologicalEntropy): Formalising topological entropy in the Lean proof assistant and integrating it into Mathlib.
+
+### Mathematical Physics 
+- [HepLean](https://github.com/HEPLean/HepLean): Formalising high energy physics in the Lean 4 proof assistant.
 
 ## Talks 
 
