@@ -8,20 +8,6 @@
 
 ![GitHub Metrics](github-metrics.svg)
 
-
-## Past Selected Projects
-
-### Data Mining & Machine Learning 
-- [User Gender Classification on Reddit applying NLP](https://github.com/pitmonticone/RedditTextClassification);
-- [BERT Sentiment Classification on the IMDb Large Movie Review Dataset](https://github.com/pitmonticone/BertSentimentClassification);
-- [Dataset Analysis and CNN Models Optimization for Plant Disease Classification](https://github.com/pitmonticone/PlantDiseaseClassification).
-
-### Time Series Analysis 
-- [UnrollingAverages.jl](https://github.com/InPhyT/UnrollingAverages.jl): A Julia Package to Deconvolve Time Series Data.
-
-### Applied Graph Theory / Network Science 
-- [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl): A Julia Package to Construct, Handle and Analyse Multilayer Graphs.
-
 ## Current Selected Projects  
 
 ### Libraries 
@@ -53,14 +39,20 @@
 
 - **When:** 2023/05/23 - 2023/05/26
 - **Where:** [The Fields Institute](http://www.fields.utoronto.ca/), Toronto, Canada
-- **Who:** [Pietro Monticone](https://github.com/pitmonticone) and [Claudio Moroni](https://github.com/ClaudMor)
 - **What:** "Multilayer Network Science in Julia with [`MultilayerGraphs.jl`](https://github.com/JuliaGraphs/MultilayerGraphs.jl)" ([Website](http://www.fields.utoronto.ca/talks/Multilayer-Network-Science-Julia-MultilayerGraphsjl), [Slides](https://inphyt.github.io/Talks/2023/WAW/index.html), [Video](https://youtu.be/hB8Vrwkwax0))
 
 #### [JuliaCon 2023](https://juliacon.org/2023/)
 
 - **When:** 2023/07/25 - 2023/07/29
 - **Where:** [Massachusetts Institute of Technology](https://www.mit.edu), Cambridge, MA, USA
-- **Who:** [Pietro Monticone](https://github.com/pitmonticone) and [Claudio Moroni](https://github.com/ClaudMor)
 - **What:** "[`MultilayerGraphs.jl`](https://github.com/JuliaGraphs/MultilayerGraphs.jl): Multilayer Network Science in Julia" ([Website](https://pretalx.com/juliacon2023/talk/MS7YWQ/), [Short Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/short/index.html), [Long Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/long/index.html), [Video](https://youtu.be/Q2PwKQCkZJ4))
+
+### 2024
+
+#### [Libraries of Digital Mathematics Workshop](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics\#wrks3)
+
+- **When:** 2024/07/29 - 2024/08/02
+- **Where:** [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, Germany
+- **What:** "Getting Started with Blueprint-Driven Formalisation Projects in Lean" ([Website](https://github.com/pitmonticone/LeanProject), [Video](https://youtu.be/KyuyTsLgkMY))
 
 
