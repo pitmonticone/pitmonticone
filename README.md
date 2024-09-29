@@ -14,6 +14,9 @@
 - [LeanBlueprint](https://github.com/PatrickMassot/leanblueprint): Python library to write blueprints for formalisation projects in the Lean proof assistant.
 - [Mathlib](https://github.com/leanprover-community/mathlib4): Lean library of formalised mathematics.
 
+### Algebra 
+- [EquationalTheories](https://github.com/teorth/equational_theories): Mapping out and formalising the relations between different equational theories of magmas in the Lean proof assostant. 
+
 ### Analysis
 - [BonnAnalysis](https://github.com/fpvandoorn/BonnAnalysis): Collaborative formalisation seminars in Analysis at the University of Bonn. 
 - [Carleson](http://florisvandoorn.com/carleson): Formalising a generalised Carleson's Theorem in the Lean proof assistant.
