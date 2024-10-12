@@ -10,8 +10,9 @@
 
 ## Current Selected Projects  
 
-### Libraries 
+### Libraries & Templates
 - [LeanBlueprint](https://github.com/PatrickMassot/leanblueprint): Python library to write blueprints for formalisation projects in the Lean proof assistant.
+- [LeanProject](https://github.com/pitmonticone/LeanProject): Template for blueprint-driven formalization projects in Lean.
 - [Mathlib](https://github.com/leanprover-community/mathlib4): Lean library of formalised mathematics.
 
 ### Algebra 
