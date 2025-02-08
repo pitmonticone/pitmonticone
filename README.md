@@ -37,6 +37,14 @@
 
 ## Talks 
 
+### 2024
+
+#### [Libraries of Digital Mathematics Workshop](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics\#wrks3)
+
+- **When:** 2024/07/29 - 2024/08/02
+- **Where:** [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, Germany
+- **What:** "Getting Started with Blueprint-Driven Formalisation Projects in Lean" ([Website](https://github.com/pitmonticone/LeanProject), [Video](https://youtu.be/KyuyTsLgkMY))
+
 ### 2023 
 
 #### [18th Workshop on Algorithms and Models for Web Graphs](http://www.fields.utoronto.ca/activities/22-23/waw2023)
@@ -50,13 +58,4 @@
 - **When:** 2023/07/25 - 2023/07/29
 - **Where:** [Massachusetts Institute of Technology](https://www.mit.edu), Cambridge, MA, USA
 - **What:** "[`MultilayerGraphs.jl`](https://github.com/JuliaGraphs/MultilayerGraphs.jl): Multilayer Network Science in Julia" ([Website](https://pretalx.com/juliacon2023/talk/MS7YWQ/), [Short Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/short/index.html), [Long Presentation](https://inphyt.github.io/Talks/2023/JuliaCon/long/index.html), [Video](https://youtu.be/Q2PwKQCkZJ4))
-
-### 2024
-
-#### [Libraries of Digital Mathematics Workshop](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics\#wrks3)
-
-- **When:** 2024/07/29 - 2024/08/02
-- **Where:** [Hausdorff Research Institute for Mathematics](https://www.mathematics.uni-bonn.de/him), Bonn, Germany
-- **What:** "Getting Started with Blueprint-Driven Formalisation Projects in Lean" ([Website](https://github.com/pitmonticone/LeanProject), [Video](https://youtu.be/KyuyTsLgkMY))
-
 
