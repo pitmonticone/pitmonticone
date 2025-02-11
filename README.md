@@ -37,6 +37,14 @@
 
 ## Talks 
 
+## 2025
+
+### [CHANGE Seminar](https://mbschulz.github.io/change_seminar/)
+
+- **When:** 2025/02/11
+- **Where:** [University of Trento](https://www.unitn.it/en), Trento, Italy
+- **What:** "An Invitation to Blueprint-Driven Formalisation of Mathematical Research in Lean" ([Website](https://mbschulz.github.io/change_seminar), [Slides](https://pitmonticone.github.io/Talks/2025/CHANGE/index.html), [Demo](https://github.com/pitmonticone/LeanCHANGE))
+
 ### 2024
 
 #### [Libraries of Digital Mathematics Workshop](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics\#wrks3)
