@@ -37,9 +37,9 @@
 
 ## Talks 
 
-## 2025
+### 2025
 
-### [CHANGE Seminar](https://mbschulz.github.io/change_seminar/)
+#### [CHANGE Seminar](https://mbschulz.github.io/change_seminar/)
 
 - **When:** 2025/02/11
 - **Where:** [University of Trento](https://www.unitn.it/en), Trento, Italy
