@@ -22,11 +22,16 @@
 - [BonnAnalysis](https://github.com/fpvandoorn/BonnAnalysis): Collaborative formalisation seminars in Analysis at the University of Bonn. 
 - [Carleson](http://florisvandoorn.com/carleson): Formalising a generalised Carleson's Theorem in the Lean proof assistant.
 
+### Category Theory 
+- [InfinityCosmos](https://github.com/emilyriehl/infinity-cosmos): Formalising the Infinity Cosmos theory in the Lean proof assistant.
+
 ### Number Theory
 - [FLT3](https://pitmonticone.github.io/FLT3): Formalising Fermat's Last Theorem for Exponent 3 in the Lean proof assistant.
 - [FLT](https://github.com/ImperialCollegeLondon/FLT): Formalising Fermat's Last Theorem in the Lean proof assistant.
 - [PFR](https://github.com/teorth/pfr): Formalising the Polynomial Freiman Ruzsa conjecture and related results in the Lean proof assistant.
 - [PNT+](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd): Formalising the Prime Number Theorem and more in the Lean proof assistant.
+- [ABC-Exceptions](https://github.com/b-mehta/ABC-Exceptions): Formalising the exceptional set in the ABC conjecture in the Lean proof assistant.
+- [SpherePacking](https://github.com/thefundamentaltheor3m/Sphere-Packing-Lean): Formalising Maryna Viazovska's Fields Medal-winning solution to the sphere packing problem in dimension 8.
 
 ### Dynamical Systems Theory
 - [BET](https://github.com/mseri/BET): Formalising Birkhoff's Ergodic Theorem in the Lean proof assistant.
