@@ -44,6 +44,11 @@
 
 ### 2025
 
+### [ItaLean 2025](https://pitmonticone.github.io/ItaLean2025/)
+- **When:** 2025/12/09 - 2025/12/12
+- **Where:** [University of Bologna](https://www.unibo.it/en), Bologna, Italy
+- **What:** "LeanArchitect: Automating Blueprint Generation for Humans and AI" ([Website](https://pitmonticone.github.io/ItaLean2025), [Slides](https://pitmonticone.github.io/Talks/2025/ItaLean/), [GitHub](https://github.com/pitmonticone/ItaLean2025), [Video](https://www.youtube.com/@ItaLeanConference))
+
 #### [CHANGE Seminar](https://mbschulz.github.io/change_seminar/)
 
 - **When:** 2025/02/11
