@@ -14,6 +14,7 @@
 - [LeanBlueprint](https://github.com/PatrickMassot/leanblueprint): Python library to write blueprints for formalisation projects in the Lean proof assistant.
 - [LeanProject](https://github.com/pitmonticone/LeanProject): Template for blueprint-driven formalization projects in Lean.
 - [Mathlib](https://github.com/leanprover-community/mathlib4): Lean library of formalised mathematics.
+- [PhysLib](https://github.com/leanprover-community/physlib): Formalising high energy physics in the Lean 4 proof assistant.
 
 ### Algebra 
 - [EquationalTheories](https://github.com/teorth/equational_theories): Mapping out and formalising the relations between different equational theories of magmas in the Lean proof assostant. 
@@ -36,9 +37,6 @@
 ### Dynamical Systems Theory
 - [BET](https://github.com/mseri/BET): Formalising Birkhoff's Ergodic Theorem in the Lean proof assistant.
 - [TopologicalEntropy](https://github.com/mseri/BET/tree/main/BET/TopologicalEntropy): Formalising topological entropy in the Lean proof assistant and integrating it into Mathlib.
-
-### Mathematical Physics 
-- [HepLean](https://github.com/HEPLean/HepLean): Formalising high energy physics in the Lean 4 proof assistant.
 
 ## Talks 
 
