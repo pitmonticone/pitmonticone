@@ -26,6 +26,10 @@
 ### Category Theory 
 - [InfinityCosmos](https://github.com/emilyriehl/infinity-cosmos): Formalising the Infinity Cosmos theory in the Lean proof assistant.
 
+### Dynamical Systems Theory
+- [BET](https://github.com/mseri/BET): Formalising Birkhoff's Ergodic Theorem in the Lean proof assistant.
+- [TopologicalEntropy](https://github.com/mseri/BET/tree/main/BET/TopologicalEntropy): Formalising topological entropy in the Lean proof assistant and integrating it into Mathlib.
+
 ### Number Theory
 - [FLT3](https://pitmonticone.github.io/FLT3): Formalising Fermat's Last Theorem for Exponent 3 in the Lean proof assistant.
 - [FLT](https://github.com/ImperialCollegeLondon/FLT): Formalising Fermat's Last Theorem in the Lean proof assistant.
@@ -34,9 +38,8 @@
 - [ABC-Exceptions](https://github.com/b-mehta/ABC-Exceptions): Formalising the exceptional set in the ABC conjecture in the Lean proof assistant.
 - [SpherePacking](https://github.com/thefundamentaltheor3m/Sphere-Packing-Lean): Formalising Maryna Viazovska's Fields Medal-winning solution to the sphere packing problem in dimension 8.
 
-### Dynamical Systems Theory
-- [BET](https://github.com/mseri/BET): Formalising Birkhoff's Ergodic Theorem in the Lean proof assistant.
-- [TopologicalEntropy](https://github.com/mseri/BET/tree/main/BET/TopologicalEntropy): Formalising topological entropy in the Lean proof assistant and integrating it into Mathlib.
+### Open Problems 
+- [ErdosProblems](https://github.com/teorth/erdosproblems): Solving and formalising Erdös problems with Aristotle in the Lean proof assistant.
 
 ## Talks 
 
