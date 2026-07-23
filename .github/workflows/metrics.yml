@@ -19,6 +19,7 @@ jobs:
           plugins_errors_fatal: yes
           retries: 3
           retries_delay: 300
+          repositories_batch: 10
           config_timezone: Europe/Rome
           config_display: large
           commits_authoring: 38562595+pitmonticone@users.noreply.github.com, pit.monticone@gmail.com, pietro.monticone@edu.unito.it, pietromonticone.cs@gmail.com
