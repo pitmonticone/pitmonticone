@@ -34,7 +34,6 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, JavaScript, SCSS, Ruby, Jupyter Notebook, Shell, Tcl
-          plugin_lines:  yes
           #plugin_notable: yes
           #plugin_people: yes
           #plugin_people_types: contributors, sponsoring
